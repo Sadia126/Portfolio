@@ -5,10 +5,10 @@ import { router } from './Router/Router.jsx'
 import { RouterProvider } from 'react-router-dom'
 
 createRoot(document.getElementById('root')).render(
-  <StrictMode>c
+  <StrictMode>
      <div className="max-w-screen-xl p-2 md:p-0 mx-auto">
       <RouterProvider router={router} />
-      <Toaster></Toaster>
+      {/* <Toaster></Toaster> */}
     </div>
   </StrictMode>,
 )
