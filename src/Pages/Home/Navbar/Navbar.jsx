@@ -8,6 +8,7 @@ const Navbar = () => {
     
     <li  className="m-2 md:mr-5 text-lg hover:text-[#c3902c] hover:underline">
         <NavLink to="/">Home</NavLink></li>
+    <li  className="m-2 md:mr-5 text-lg hover:text-[#c3902c] hover:underline"><a href="#aboutme">About me</a></li>
     <li  className="m-2 md:mr-5 text-lg hover:text-[#c3902c] hover:underline"><a href="#skill">Skill</a></li>
     <li  className="m-2 md:mr-5 text-lg hover:text-[#c3902c] hover:underline"><a href="#project">Project</a></li>
     <li  className="m-2 md:mr-5 text-lg hover:text-[#c3902c] hover:underline"><a href="#education">Education</a></li>
