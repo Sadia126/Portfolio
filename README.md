@@ -1,12 +1,64 @@
-# React + Vite
+# 🌐 Umme Sadia Sayti - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This is a responsive, full-stack-ready portfolio showcasing my projects, skills, and contact information — built using modern web technologies.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
 
-## Expanding the ESLint configuration
+👉 [Visit Portfolio Live](https://sadiasportfolio.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🔥 Features
+
+- 🧠 About Me section highlighting my journey and skills
+- 🛠️ Projects showcase with tech stack, live preview, and GitHub links
+- 📄 Downloadable resume (coming soon)
+- 📬 Contact form with EmailJS integration
+- 📱 Fully responsive design
+- 🌙 Light and clean aesthetic with Tailwind CSS
+
+---
+
+## 🚀 Technologies Used
+
+- **React.js**
+- **Tailwind CSS**
+- **React Router**
+- **EmailJS** for contact form
+- **React Hot Toast** for alerts
+
+
+## 💡 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/Sadia126/Portfolio
+
+# Navigate to the project folder
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+---
+
+
+
+## 📬 Contact
+
+If you'd like to connect or work together:
+
+* 📧 Email: [ummesadiasayti@gmail.com](mailto:ummesadiasayti@gmail.com)
+* 🐱 GitHub: [@your-github](https://github.com/Sadia126/)
+
+
+---
+
+## 📜 License
+
+This project is open-source and free to use.
+
