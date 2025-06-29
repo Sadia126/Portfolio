@@ -1,0 +1,62 @@
+[
+  {
+    "id": "hobbynest",
+    "name": "Hobbynest",
+    "image": "https://i.ibb.co/DDwc37JW/Screenshot-2025-06-29-173515.png",
+    "client": "https://github.com/Sadia126/hobby-nest",
+    "live": "https://hobbynest.netlify.app/",
+    "techStack": ["React", "Tailwind CSS", "Firebase Auth", "Node.js", "Express", "MongoDB"],
+    "description": "🧾 A full-stack hobby group app built with React, Firebase Auth, Node.js & MongoDB. Users can create, join, and manage hobby groups.",
+    "github": "https://github.com/Sadia126/hobby-nest",
+    "challenges": [
+      "Handling group join requests and status updates",
+      "Implementing secure route access with Firebase Auth",
+      "Designing a clean and intuitive dashboard for group management"
+    ],
+    "improvements": [
+      "Add real-time group chat",
+      "Implement group-level notifications",
+      "Enable event scheduling inside groups"
+    ]
+  },
+  {
+    "id": "fastcash",
+    "name": "Fastcash",
+    "image": "https://i.ibb.co/KxtQkM6Q/Screenshot-2025-06-29-173629.png",
+    "client": "https://github.com/Sadia126/fastcash",
+    "live": "https://fastcassh.netlify.app/",
+    "techStack": ["React", "Tailwind CSS", "DaisyUI", "Firebase Auth"],
+    "description": "💡 A user-specific utility bill payment app built with React, Firebase Auth & Tailwind CSS. Includes live balance, filterable bills, and a clean UI.",
+    "github": "https://github.com/Sadia126/fastcash",
+    "challenges": [
+      "Designing dynamic balance updates per user",
+      "Building reusable filter components for bills",
+      "Managing data securely using local storage"
+    ],
+    "improvements": [
+      "Integrate real payment gateway",
+      "Add PDF export for bill history",
+      "Implement multi-user admin dashboard"
+    ]
+  },
+  {
+    "id": "rupsha",
+    "name": "Rupsha",
+    "image": "https://i.ibb.co/jZJxkGs2/Screenshot-2025-06-29-173539.png",
+    "client": "https://github.com/Sadia126/Rupshas",
+    "live": "https://rupshaa-1eb03.web.app/",
+    "techStack": ["React", "Tailwind CSS", "Node.js", "Express", "Firebase", "MongoDB"],
+    "description": "🛍️ A full-stack B2B wholesale marketplace built with React, Firebase, Node.js & Tailwind CSS. Supports bulk orders, inventory control, secure JWT auth & responsive UI.",
+    "github": "https://github.com/Sadia126/Rupshas",
+    "challenges": [
+      "Managing inventory in real-time with backend sync",
+      "Securing order routes using JWT & role-based access",
+      "Displaying products efficiently in both card and table views"
+    ],
+    "improvements": [
+      "Add analytics dashboard for sellers",
+      "Enable CSV upload for bulk product imports",
+      "Support multiple payment methods"
+    ]
+  }
+]
