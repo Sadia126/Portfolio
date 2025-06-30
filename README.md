@@ -53,7 +53,7 @@ npm run dev
 If you'd like to connect or work together:
 
 * 📧 Email: [ummesadiasayti@gmail.com](mailto:ummesadiasayti@gmail.com)
-* 🐱 GitHub: [@Sadia126](https://github.com/Sadia126/)
+* 🐱 GitHub: [@your-github](https://github.com/Sadia126/)
 
 
 ---

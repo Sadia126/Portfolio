@@ -22,7 +22,7 @@ const Eduction = () => {
         </div>
 
         {/* Card 2 */}
-        <div className="card bg-base-100 shadow-xl ">
+        {/* <div className="card bg-base-100 shadow-xl ">
           <div className="card-body">
             <h2 className="card-title text-3xl font-bold text-[#c3902c]">
               2020 - 2022
@@ -30,10 +30,10 @@ const Eduction = () => {
             <p className="text-lg font-medium">H.S.C</p>
             <p className="text-base font-medium">Marine Academy school and collage</p>
           </div>
-        </div>
+        </div> */}
 
         {/* Card 3 */}
-        <div className="card bg-base-100 shadow-xl">
+        {/* <div className="card bg-base-100 shadow-xl">
           <div className="card-body">
             <h2 className="card-title text-3xl font-bold text-[#c3902c]">
               2014 - 2020
@@ -43,7 +43,7 @@ const Eduction = () => {
               Hajeegaon Sholkata S.J Nijam High School
             </p>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
